@@ -1,0 +1,8 @@
+name: Reporter
+author: MrConHD
+version: A1.0
+main: me.mrconhd.report.Core
+
+commands:
+  report:
+    description: Allows a user to report a player
